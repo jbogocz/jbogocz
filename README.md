@@ -1,10 +1,9 @@
 # Hi there 👋
 
-**AI Engineer, PhD** | AI/ML, Algo-trading, Strategies, Backtesting
+I specialize in AI & Analytics, constantly exploring new AI/ML trends to keep my edge.
 
-I specialize in AI, Analytics and data-driven automation. I stay updated with the latest AI/ML trends to keep my edge sharp.
-
-I also build trading strategies and backtest them at scale. If you're a trader, you may be interested in my open-source work below.
+Leveraging my expertise with AI to build trading tools, strategies.  
+If you want to decode trading, check out my open-source work below.
 
 ---
 
@@ -16,13 +15,9 @@ I also build trading strategies and backtest them at scale. If you're a trader, 
 
 ---
 
-### AI & Strategies
+### What I build
 
-Designing and coding algorithmic trading strategies across multiple asset classes and timeframes.
-
-### Indicators
-
-Building custom technical indicators for signal generation and strategy development. From classic oscillators to AI-driven features.
+- Building AI-driven tools, strategies, and more to Decode Trading.
 
 ---
 
